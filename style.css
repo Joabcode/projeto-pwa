@@ -45,7 +45,7 @@ header {
     text-decoration: none; /* Remove o sublinhado */
     padding: 18px;
     margin-bottom: 15px;
-    border-radius: 12px;   /* Cantos suaves */
+    border-radius: 18px;   /* Cantos suaves */
     text-align: center;
     font-weight: bold;
     transition: 0.3s;      /* Suaviza a animação de toque */
@@ -53,7 +53,7 @@ header {
 
 /* Efeito quando o rato passa por cima (ou o dedo toca) */
 .btn:hover {
-    background-color: #3498db;
+    background-color: #8DB580;
     color: white;
     transform: translateY(-3px); /* Pequeno salto para cima */
 }
