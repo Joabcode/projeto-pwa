@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #1a1a1a; /* Cor de fundo escura (moderna) */
+    background-color: #1C2541; /* Cor de fundo escura (moderna) */
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
@@ -26,7 +26,7 @@ header {
 }
 
 .bio {
-    color: #bdc3c7;
+    color: #3A506B;
     font-style: italic;
 }
 
